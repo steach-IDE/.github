@@ -6,10 +6,10 @@ You describe and shape the product. Steach keeps a target-neutral **Product Mode
 
 ## How it works
 
- - 🧭 **Describe** - shape features, screens and architecture in a product-level workspace, not in source files.
- - 🧱 **Product Model** - one typed, validated, diff-able source of truth that doesn't depend on any one framework.
- - 🤖 **Gated agent runs** - agents turn model changes into code in a sandbox, and you approve each step.
- - 📱 **A real app** - a generated Flutter project you can preview live and ship as an APK.
+ - **Describe** - shape features, screens and architecture in a product-level workspace, not in source files.
+ - **Product Model** - one typed, validated, diff-able source of truth that doesn't depend on any one framework.
+ - **Gated agent runs** - agents turn model changes into code in a sandbox, and you approve each step.
+ - **A real app** - a generated Flutter project you can preview live and ship as an APK.
 
 ## Status
 
